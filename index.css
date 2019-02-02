@@ -25,7 +25,7 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'Maven Pro', sans-serif;
 }
 .hero-text,h1{ 
     text-size: 200%;
