@@ -33,3 +33,7 @@ body, html {
 .hero-text, p{ 
     text-size: 300%;
 }
+.hero-text, button{
+    color:#043927;
+    
+}
