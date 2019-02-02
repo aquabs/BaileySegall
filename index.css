@@ -22,6 +22,10 @@ body, html {
   color: white;
 }
 
+.hero-text, h1,p {
+  text-size: 200%;
+}
+
 .hero-text button {
   border: none;
   outline: 0;
