@@ -64,5 +64,6 @@ body {
 .col-sm-3 img {
   margin-top: 8px;
   vertical-align: middle;
+  width: 25%;
 }
 
