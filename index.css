@@ -42,6 +42,6 @@ body, html {
 }
 
 .hero-text button:hover {
-  background-color: ##00420b;
-  color: black;
+  background-color: #00420b;
+  color: white;
 }
