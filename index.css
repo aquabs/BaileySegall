@@ -27,3 +27,9 @@ body, html {
   color: white;
   font-family: 'Abril Fatface', cursive;
 }
+.hero-text,h1{ 
+    text-size: 200%;
+}
+.hero-text, p{ 
+    text-size: 300%;
+}
