@@ -51,6 +51,10 @@ body, html {
   box-sizing: border-box;
 }
 /* Create two equal columns that floats next to each other */
+.row {
+  width: 100%;
+}
+
 .column {
   float: left;
   width: 33.33%;
