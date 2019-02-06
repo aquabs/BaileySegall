@@ -55,13 +55,13 @@ body, html {
   width: 100%;
 }
 
-.column {
+.col-sm-4 {
   float: left;
   width: 33.33%;
   padding: 10px;
 }
 
-.column img {
+.col-sm-4 img {
   margin-top: 12px;
 }
 
