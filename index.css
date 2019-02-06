@@ -1,6 +1,4 @@
-body { 
-    left-padding: 0px;
-}
+body { margin: 0 }
 
 body, html {
   height: 100%;
