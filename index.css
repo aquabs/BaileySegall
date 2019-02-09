@@ -1,5 +1,9 @@
 body { right-margin: -50; }
 
+body, html {
+    height: 100%;
+}
+
 .hero-image {
   background-image:url("IMG_5026_Facetune_28-10-2018-20-44-37 (1).jpg");
   height: 50%;
